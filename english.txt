@@ -1,0 +1,3 @@
+Hello, how are you?
+This is a simple test of the translation application.
+I hope you have a great day!
